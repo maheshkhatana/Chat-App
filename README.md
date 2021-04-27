@@ -38,21 +38,3 @@ To run the application, In the project directory(Chat-App/Server)
 `node index`
 
 
-## :arrow_right: Demo
-
-
-##### Create Room
-
-
-![alt text](./Demo/1.png "Room")
-
-
-##### Start Chat
-
-![alt text](./Demo/2.png "Chat")
-
-
-![alt text](./Demo/3.png "Chat")
-
-
-![alt text](./Demo/4.png "Chat")
